@@ -1,0 +1,29 @@
+Taking Screenshots:
+
+MacOS:
+Command + Shift + 3: Capture the entire screen.
+Command + Shift + 4: Capture a selected portion of the screen.
+Command + Shift + 4, then Spacebar, then click on a window: Capture a specific window.
+Windows:
+Print Screen (PrtScn) key: Capture the entire screen to the clipboard.
+Alt + Print Screen: Capture only the active window to the clipboard.
+Windows Key + Shift + S (Windows 10 and later): Capture a selected portion of the screen.
+Linux (GNOME Desktop Environment):
+Print Screen (PrtScn) key: Capture the entire screen.
+Alt + Print Screen: Capture only the active window.
+Shift + Print Screen: Capture a selected portion of the screen.
+Ubuntu (Unity Desktop Environment):
+Print Screen (PrtScn) key: Capture the entire screen	.
+Alt + Print Screen: Capture only the active window.
+Shift + Print Screen: Capture a selected portion of the screen.
+Entering/Exiting Full-Screen Mode:
+
+MacOS:
+For most applications, use Command + Control + F to toggle full-screen mode.
+Windows:
+F11: Toggle full-screen mode in most web browsers and some applications.
+Windows Key + Shift + Enter (Windows 10 and later): Toggle full-screen mode for some Universal Windows Platform (UWP) apps.
+Linux (GNOME Desktop Environment):
+F11: Toggle full-screen mode in most web browsers and some applications.
+Ubuntu (Unity Desktop Environment):
+F11: Toggle full-screen mode in most web browsers and some applications.
